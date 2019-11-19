@@ -24,11 +24,17 @@ Even if you think you know JavaScript, new ES releases bring big changes that wi
 ## Table of Contents
 
 COVER
+
 FOREWORD
+
 INTRODUCTION
+
 WHO THIS BOOK IS FOR
+
 WHAT THIS BOOK COVERS
+
 HOW THIS BOOK IS STRUCTURED
+
 WHAT YOU NEED TO USE THIS BOOK
 
 ### 1 What Is JavaScript?
