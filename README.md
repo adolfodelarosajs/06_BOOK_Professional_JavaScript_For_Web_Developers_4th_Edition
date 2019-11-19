@@ -502,34 +502,49 @@ END USER LICENSE AGREEMENT
 ### List of Illustrations
 
 Chapter 1
+
 * FIGURE 1-1
 * FIGURE 1-2
+
 Chapter 3
+
 * FIGURE 3-1
 * FIGURE 3-2
 * FIGURE 3-3
+
 Chapter 4
+
 * FIGURE 4-1
 * FIGURE 4-2
 * FIGURE 4-3
+
 Chapter 8
+
 * FIGURE 8-1
 * FIGURE 8-2
 * FIGURE 8-3
 * FIGURE 8-4
 * FIGURE 8-5
 * FIGURE 8-6
+
 Chapter 10
+
 * FIGURE 10-1
 * FIGURE 10-2
+
 Chapter 12
+
 * FIGURE 12-1
 * FIGURE 12-2
 * FIGURE 12-3
+
 Chapter 14
+
 * FIGURE 14-1
 * FIGURE 14-2
+
 Chapter 16
+
 * FIGURE 16-1
 * FIGURE 16-2
 * FIGURE 16-3
@@ -540,7 +555,9 @@ Chapter 16
 * FIGURE 16-8
 * FIGURE 16-9
 * FIGURE 16-10
+
 Chapter 17
+
 * FIGURE 17-1
 * FIGURE 17-2
 * FIGURE 17-3
@@ -552,7 +569,9 @@ Chapter 17
 * FIGURE 17-9
 * FIGURE 17-10
 * FIGURE 17-11
+
 Chapter 18
+
 * FIGURE 18-1
 * FIGURE 18-2
 * FIGURE 18-3
@@ -570,7 +589,9 @@ Chapter 18
 * FIGURE 18-15
 * FIGURE 18-16
 * FIGURE 18-17
+
 Chapter 26
+
 * FIGURE 26-1
 * FIGURE 26-2
 * FIGURE 26-3
